@@ -1,0 +1,30 @@
+/*css FOOTER dan FOOT*/
+.footer {background: black; color: white;}
+.FOOT {width: 1200px; height: auto; margin: auto; overflow: hidden; padding-top: 65px; background: black;}
+
+/*css foot atas */
+.footatas {overflow: hidden;}
+.footatas p {margin-bottom: 10px;}
+
+.aboutus, .news, .subscribe {width: 600px;}
+.aboutus {float: left; margin-right: 20px;}
+
+.garis {width: 50px; border-bottom: 2px solid grey; margin-top: 5px; margin-bottom: 15px;}
+
+.subscribe {float: left; width: 500px;}
+.subscribe input {float: left; padding: 15px; width: 225px;}
+.subscribe button {margin-left: 15px; background: white; color: black; padding: 15px;}
+.subscribe button:hover {cursor: pointer;}
+.subscribe p {clear: both; margin-top: 15px;}
+
+.sosial img {width: 40px; height: auto; float: left; clip-path: circle(50%); height: 40px;
+	margin-right: 10px; margin-top: 15px;
+}
+.sosial img:hover{width: 42px; height: auto;}
+
+.picnews img {width: 50px;}
+
+footer {width: 1200px; height: auto; overflow: hidden; text-align: center; 
+	border-top: 1px solid silver; padding: 15px; margin-top: 100px; color: silver;
+}
+/*end css footer */
